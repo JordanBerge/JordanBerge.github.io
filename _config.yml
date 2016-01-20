@@ -1,0 +1,32 @@
+gems:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+exclude:
+  - "/vendor/"
+title: Jordan Berge
+subtitle:
+email: JordanBerge@gmail.com
+name: Jordan Berge
+description:
+baseurl: "/"
+url: "http://JordanBerge.github.io"
+cover: "assets/header.jpg"
+logo: "assets/logo.png"
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+disqus_shortname: jordanbergeblog
+# ga_tracking_id: "UA-69167751-1"
+social:
+  - name: GitHub
+    icon: github
+    username: JordanBerge
+    url: https://github.com/JordanBerge
+    desc: Follow my work on GitHub
+    share: true
+  - name: LinkedIn
+    icon: linkedin
+    username: Jordan Berge
+    url: https://www.linkedin.com/in/JordanBerge
+    desc: Connect with me on LinkedIn
+    share: true
