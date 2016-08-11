@@ -16,7 +16,7 @@ Quoted in David Kushner, Masters of Doom: How Two Guys Created an Empire and Tra
 
 Data Science is no different. There is a copious amount of resources on the internet that can help anyone learn about data science. This blog is an example of the material readily available and I hope I can show that anyone can put in the effort and time to become proficient in utilizing data to transform their business and life.
 
-###About My Blog
+### About My Blog
 
 My blog is running on Github using Jekyll. I am using the Centrarium theme created by Ben Centra. I made a few small modifications to colors and layouts. I am grateful for his nice simple theme and making it available for use.
 
