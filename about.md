@@ -6,7 +6,7 @@ permalink: /about/
 
 ### About Me
 
-My name is Jordan Berge. I am a husband to a wonderful wife and a father to an active, talkative little boy. I am also a life long student. I have always found analytics fascinating and have always wanted to learn how to leverage data to make better decisions. I have this blog to capture my study of data science and its many components. I first got interested in leveraging the power of data and statistics while studying my Economics degree at Brigham Young University. While studying Economics and Econometrics, I came to love the power and insight data can provide.
+My name is Jordan Berge. I am a husband to a wonderful wife and a father to an active, talkative little toddler and growing twin babies. I am also a life long student. I have always found analytics fascinating and have always wanted to learn how to leverage data to make better decisions. I have this blog to capture my study of data science and its many components. I first got interested in leveraging the power of data and statistics while studying my Economics degree at Brigham Young University. While studying Economics and Econometrics, I came to love the power and insight data can provide.
 
 My goal with this blog is to provide a log of my learning and understanding as I grow and progress. I hope that my experience can provide insight and motivation to you. One of my favorite quotes captures the possibilities all of us have in learning comes from John Carmack:
 
