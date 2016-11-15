@@ -4,7 +4,7 @@ title: "First Post"
 date: 2016-11-14 22:00:00
 author: Jordan Berge
 categories: Jekyll
-tags:	jekyll welcome 
+tags:	jekyll 
 cover:  "assets/header.jpg"
 ---
 
@@ -14,3 +14,6 @@ TEXT
 
 New Text
 
+More text
+
+###TESTING TEXT
