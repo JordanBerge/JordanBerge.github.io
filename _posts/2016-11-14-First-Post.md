@@ -12,4 +12,5 @@ cover:  "assets/header.jpg"
 
 TEXT
 
+New Text
 
