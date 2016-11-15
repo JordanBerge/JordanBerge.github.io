@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "TITLE"
+title: "TITLE2"
 date: 2016-11-14 22:00:00
 author: Jordan Berge
 ---
 
-### FIRST POST
+### Second POST
 
 
 TEXT
