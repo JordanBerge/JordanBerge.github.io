@@ -63,7 +63,7 @@ x<-4
 
 References
 
-[Stack Overflow] (https://stackoverflow.com "Hoverover TEXT")
+[Stack Overflow](https://stackoverflow.com "Hoverover Text")
 [Testing]({% post_url 2016-11-14-First-Post %})
 
 Image
