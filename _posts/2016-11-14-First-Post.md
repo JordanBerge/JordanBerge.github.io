@@ -65,6 +65,9 @@ Image
 
 ![Wikipedia logo](http://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
 
+![image-title-here](/assets/header.jpg){:class="img-responsive"}
+
+
 ***
 
 Line Break
