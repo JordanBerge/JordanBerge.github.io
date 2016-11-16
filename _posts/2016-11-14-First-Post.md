@@ -2,6 +2,8 @@
 layout: page
 title: "TITLE"
 date: 2016-11-14 22:00:00
+author: Jordan Berge
+categories: fish
 ---
 
 # One
@@ -23,6 +25,8 @@ Paragraphs need to be broken up by an empty line.
 If you don't then the sentence will show up as a normal contiunation of the paragraph.
 
 Understand? This is how you make a new paragraph
+
+DOes this work for end notes[^1]
 
 *Italics*
 
@@ -102,3 +106,5 @@ Task Lists
 
  - [X] Task 1
  - [ ] Task 2
+
+[^1]: Text goes here
