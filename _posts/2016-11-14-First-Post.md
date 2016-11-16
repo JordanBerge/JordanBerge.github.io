@@ -26,7 +26,7 @@ If you don't then the sentence will show up as a normal contiunation of the para
 
 Understand? This is how you make a new paragraph
 
-DOes this work for end notes [^1]
+Does this work for end notes [^1]
 
 *Italics*
 
