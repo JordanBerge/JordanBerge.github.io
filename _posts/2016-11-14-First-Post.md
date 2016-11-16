@@ -34,6 +34,7 @@ __Bold__
 
 **_Bold Italics_**
 
+~~Strike Through~~
 
 List
 ----
