@@ -26,7 +26,7 @@ If you don't then the sentence will show up as a normal contiunation of the para
 
 Understand? This is how you make a new paragraph
 
-Does this work for end notes [^1]
+Does this work for end notes [^2]
 
 *Italics*
 
@@ -107,4 +107,8 @@ Task Lists
  - [X] Task 1
  - [ ] Task 2
 
-[^1]: Text goes here
+[^2]: Text goes here
+
+I bet you'd like more information about this sentence [^1].
+
+[^1]: Well lucky for you, I've included more information in footnote form.
