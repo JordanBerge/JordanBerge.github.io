@@ -6,4 +6,6 @@ permalink: /toolbox/
 
 ### Tool Box
 
-TOOL1
+TOOL
+
+[Testing]({% post_url 2015-11-14-First-Post %})
