@@ -20,10 +20,14 @@ If you don't then the sentence will show up as a normal contiunation of the para
 Understand? This is how you make a new paragraph
 
 *Italics*
+
 _Italics_
+
 **Bold**
+
 __Bold__
-** _Bold Italics_**
+
+**_Bold Italics_**
 
 
 List
@@ -53,9 +57,11 @@ x<-4
 ```
 
 References
+
 [Stack Overflow] (stackoverflow.com "Hoverover TEXT")
 
 Image
+
 ![Wikipedia logo](http://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
 
 ***
@@ -65,6 +71,7 @@ Line Break
 ---
 
 Tables
+
 | Heading 1 | Heading 2 | Heading 3 |
 | --------- | --------- | --------- |
 | Row 1, column 1 | Row 1, column 2 | Row 1, column 3|
