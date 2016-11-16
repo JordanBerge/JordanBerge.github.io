@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tool Box
-permalink: /toolbox/
+permalink: /tool_box/
 ---
 
 ### Tool Box
