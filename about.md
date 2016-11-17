@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-### About Me
+## About Me
 
 ![Family](/assets/family.jpg)
 
