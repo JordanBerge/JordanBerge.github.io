@@ -15,7 +15,8 @@ logo: "assets/logo.png"
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
-disqus_shortname: jordanbergeblog 
+disqus_shortname: jordanbergeblog
+highlightjs_theme: "monokai_sublime"
 # ga_tracking_id: "UA-69167751-1"
 social:
   - name: GitHub
